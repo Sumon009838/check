@@ -1,3 +1,3 @@
-reD
+red
 green
 blue
